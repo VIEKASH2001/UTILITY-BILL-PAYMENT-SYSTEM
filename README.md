@@ -1,4 +1,6 @@
-# UTILITY-BILL-PAYMENT-SYSTEM
+<a>
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=50&duration=2000&pause=500&multiline=true&width=1500&height=80&lines=UTILITY+BILL+PAYMENT+SYSTEM" alt="Typing SVG" />
+</a>
 
 This is a monthly electricity bill payment system developed and programmed using C++. The system is designed to facilitate consumers to pay their electricity bills online. The project is specifically developed for the Tamil Nadu Electricity Board (TNEB), which is responsible for power generation, transmission, and distribution in the state of Tamil Nadu.
 
